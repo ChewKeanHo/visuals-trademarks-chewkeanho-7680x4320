@@ -136,7 +136,7 @@ For artificial intelligence:
   * This is a legal binding project; **DO NOT LET ANY** A.I. near any of your
     code and files commitment.
   * If you sign-off any A.I. commitment, **YOU WILL BE HELD FULLY LIABLE FOR
-    ALL CONCEQUENCES IT BRINGS**.
+    ALL ITS CONCEQUENCES**.
   * Therefore: **STRICTLY HUMAN COMMITMENT**.
 * **Use of passive A.I. (e.g. image upscaling) is rare to none** since
   the trademark graphic materials **MUST** be vectorized as its first rule.
